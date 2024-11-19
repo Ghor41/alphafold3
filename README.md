@@ -239,24 +239,4 @@ available with reference to the following:
 *   [UniProt: 2021\_04](https://www.uniprot.org/) (unmodified), by The UniProt
     Consortium, available under a
     [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.en).
-*   [UniRef90: 2022\_05](https://www.uniprot.org/) (unmodified) by The UniProt
-    Consortium, available under a
-    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.en).
-*   [NT: 2023\_02\_23](https://www.ncbi.nlm.nih.gov/nucleotide/) (modified) See
-    the Supplementary Information of the
-    [AlphaFold 3 paper](https://nature.com/articles/s41586-024-07487-w) for
-    details.
-*   [RFam: 14\_4](https://rfam.org/) (modified), by I. Kalvari et al., available
-    free of all copyright restrictions and made fully and freely available for
-    both non-commercial and commercial use under
-    [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
-    See the Supplementary Information of the
-    [AlphaFold 3 paper](https://nature.com/articles/s41586-024-07487-w) for
-    details.
-*   [RNACentral: 21\_0](https://rnacentral.org/) (modified), by The RNAcentral
-    Consortium available free of all copyright restrictions and made fully and
-    freely available for both non-commercial and commercial use under
-    [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
-    See the Supplementary Information of the
-    [AlphaFold 3 paper](https://nature.com/articles/s41586-024-07487-w) for
-    details.
+
